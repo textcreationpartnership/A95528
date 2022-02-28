@@ -1,0 +1,738 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The certain travailes of an uncertain journey begun on Tuesday the 9. of August, and ended on Saturday the 3. of September following, 1653. Wherein the readers may take notice, that the authors purpose was to travell, and write this following relation, for no other intent or purpose, but to pleasure himself, and to please his friends in the first place. By John Taylor, at the sign of the Poets Head, in Phœniz [sic] Alley, near the Globe Tavern, in the middle of Long-Acre nigh the Covent-Garden. Those twelve following lines I gave to divers gentlemen and friends, before I went, and as they have kindly subscribed to my bill, I [d]o humbly expect their courteous acceptation of this booke.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95528</idno>
+            <idno type="STC">Wing T438</idno>
+            <idno type="STC">Thomason E1434_1</idno>
+            <idno type="STC">ESTC R209555</idno>
+            <idno type="EEBO-CITATION">99868429</idno>
+            <idno type="PROQUEST">99868429</idno>
+            <idno type="VID">169947</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169947)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 183:E1434[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The certain travailes of an uncertain journey begun on Tuesday the 9. of August, and ended on Saturday the 3. of September following, 1653. Wherein the readers may take notice, that the authors purpose was to travell, and write this following relation, for no other intent or purpose, but to pleasure himself, and to please his friends in the first place. By John Taylor, at the sign of the Poets Head, in Phœniz [sic] Alley, near the Globe Tavern, in the middle of Long-Acre nigh the Covent-Garden. Those twelve following lines I gave to divers gentlemen and friends, before I went, and as they have kindly subscribed to my bill, I [d]o humbly expect their courteous acceptation of this booke.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>29, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontis = ill.</note>
+                  <note>In verse.</note>
+                  <note>Date and place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Feb. 17 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:169947:2"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of (?) Christopher Love</figDesc>
+                  <head> M<hi rend="sup">r</hi>. Christopher, Loue Aetat 35 1652</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:169947:1" rendition="simple:additions"/>
+            <p>THE CERTAIN TRAVAILES of an uncertain JOURNEY, Begun on Tueſday the 9. of <hi>Auguſt,</hi> and ended on Saturday the 3. of <hi>September</hi> following, 1653.</p>
+            <p>Wherein the Readers may take notice, that the Authors purpoſe was to Travell, and Write this following Relation, for no other intent or purpoſe, but to pleaſure himſelf, and to pleaſe his Friends in the firſt place.</p>
+            <p>By <hi>JOHN TAYLOR,</hi> at the Signe of the Poets Head, in Phoeniz Alley, near the Globe Tavern, in the middle of Long-Acre, nigh the Covent-Garden.</p>
+            <p>Thoſe twelve following lines I gave to divers Gentlemen and Friends, before I went, and as they have kindly ſubſcribed to my Bill, I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o humbly expect their courteous acceptation of this Booke.</p>
+            <pb facs="tcp:169947:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169947:3"/>
+            <pb n="5" facs="tcp:169947:3"/>
+            <head>A merry Bill of an uncertaine Journey, to bee performed by <hi>John Taylor,</hi> by Land, with his <hi>Aqua Muſa.</hi>
+            </head>
+            <lg>
+               <l>TO all my Friends, and courteous Gentlemen,</l>
+               <l>Know, that my journey is, I know not when:</l>
+               <l>Unto the parts I goe, I know not where,</l>
+               <l>Or of my entertainement far or neare;</l>
+               <l>Thus neither knowing when, or where, or whether,</l>
+               <l>Begun, or done, or both ends brought together,</l>
+               <l>When I this unknowne Walke have put in print,</l>
+               <l>Each man to's pocket, put your fingers in't,</l>
+               <l>And, for my Booke then give me what you liſt,</l>
+               <l>To which end, to this Bill, take pen in fiſt,</l>
+               <l>And write your names and habitations down,</l>
+               <l>I'le finde you when againe I come to Towne.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:169947:4"/>
+            <pb n="7" facs="tcp:169947:4"/>
+            <head>
+               <hi>The certainty of the uncertaine Travels of</hi> John Taylor, <hi>performed in this yeere</hi> 1653.</head>
+            <lg>
+               <l>TIs laudable to read well pen'd Relations</l>
+               <l>Of foreign Countries, &amp; their ſituations,</l>
+               <l>That by the judgement of the eie &amp; brain</l>
+               <l>Some knowledge to diſcourſe we may attain.</l>
+               <l>For Hiſtories, and learn'd Coſmographers,</l>
+               <l>And diligent acute Geographers;</l>
+               <l>One hath ſurvay'd celeſtiall lofty ſphears,</l>
+               <l>How all the Planets run in their carriers:</l>
+               <l>The ſtars, the ſignes, and every influence</l>
+               <l>In every Heavenly Orbs circumference,</l>
+               <l>And were it not for high Aſtronomy</l>
+               <l>(Whoſe lofty painfull ſteps have ſcal'd the sky)</l>
+               <l>For times and ſeaſons we might grope and ſeek,</l>
+               <l>Not knowing yeers, or quarters, month, or week,</l>
+               <l>Or houres, or minutes, nor the Sabbath day,</l>
+               <l>Nor when to eat, or ſleep, or debts to pay.</l>
+               <l>Millions of people would this knowledge lack</l>
+               <l>Except directed from the Almanack.</l>
+               <l>Thus Art, (with pains and travell of the mind)</l>
+               <l>Taught mean capacities, theſe things to find.</l>
+               <pb n="8" facs="tcp:169947:5"/>
+               <l>He travels far that goes beyond the Moone,</l>
+               <l>Or thinks this skill may be attayned ſoone.</l>
+               <l>Their overweening thoughts flie high and quick</l>
+               <l>But ſuch mad fooles are only lunatick.</l>
+               <l>Geographers have travel'd land and ſeas</l>
+               <l>Each coaſt, and oppoſite Antipodes;</l>
+               <l>And the deſcription of all lands and parts</l>
+               <l>Deſcribed are, in ſeverall Maps and Charts.</l>
+               <l>The Sun &amp; Moon have ſeldom ſhewd their faces</l>
+               <l>On any Empire, Kingdom, place, or places,</l>
+               <l>Which Travellers have not viewd and ſurvayd,</l>
+               <l>And by rare Geographique Art diſplayd.</l>
+               <l>By either ſea or land, by night or day,</l>
+               <l>Geography hath chalk'd us out the way:</l>
+               <l>That with Maps, Compas, &amp; indifferent weather</l>
+               <l>True men or Thieves may travell any whither.</l>
+               <l>And thus throgh thick &amp; thin, ways hard or ſoft,</l>
+               <l>Thouſand and thouſand miles I travel'd oft.</l>
+               <l>Some men do travell in their contemplations,</l>
+               <l>In reading Hiſtories and ſtrange Relations:</l>
+               <l>Some few do travell in the wayes Divine,</l>
+               <l>Some wander wildly with the Muſes nine;</l>
+               <l>For every man would be a Poet gladly,</l>
+               <l>Although he write and Rime but badly madly.</l>
+               <l>Sometimes the wits and tongues do, moſt unfit,</l>
+               <l>Travell, when tongues do run before the wit.</l>
+               <l>But if they both keep company together,</l>
+               <l>Delight and profit is in both, or eyther.</l>
+               <pb n="9" facs="tcp:169947:5"/>
+               <l>Diſcretion gravely goes a gentle pace,</l>
+               <l>When ſpeech, a gallop, runs a heedles race:</l>
+               <l>Mans earthly portion 's travell, paine, and care,</l>
+               <l>(Of which I make a ſhift to get my ſhare.)</l>
+               <l>Some do diſdain, and hold it in high ſcorn</l>
+               <l>To know thatcht cottages where they were born</l>
+               <l>Some croſſe the ſea to ſee ſtrange lands unknown</l>
+               <l>And heer, like ſtrangers, do not know their own.</l>
+               <l>Their own, 'tis fit work for a golden pen</l>
+               <l>To write the names down of ſuch knowing men:</l>
+               <l>Should ech on know &amp; have his own, 'twere rare</l>
+               <l>Right owners wold be rich, &amp; knaves ſtark bare.</l>
+               <l>Hee's counted wiſe, with the Italians,</l>
+               <l>That knows his own wife from another mans.</l>
+               <l>But hee's more wiſe that knows himſelfe to be</l>
+               <l>Fraile, mortall, and a map of Miſery.</l>
+               <l>But wiſeſt he, that patient takes his lot,</l>
+               <l>And uſe the world as if he us'd it not.</l>
+               <l>Some ſeem to know moſt, yet know almoſt no<g ref="char:EOLhyphen"/>thing,</l>
+               <l>For man, in knowledge, is a very ſlow thing.</l>
+               <l>
+                  <hi>Noſce teipſum,</hi> Know thy ſelfe, and then</l>
+               <l>Each one will know himſelfe the worſt of men.</l>
+               <l>Many of forreign travels boaſt and vant,</l>
+               <l>When they, of <hi>England,</hi> are moſt ignorant.</l>
+               <l>But yeerly I ſurvey my Country Native,</l>
+               <l>And, mongſt 6. caſes, live upon the <hi>Dative.</hi>
+               </l>
+               <l>I travell hard, and for my lifes ſupply,</l>
+               <l>I every yeere receive a Subſidie.</l>
+               <pb n="10" facs="tcp:169947:6"/>
+               <l>(Or elſe to come more neer unto the ſence)</l>
+               <l>'Tis fit to call it a Benevolence.</l>
+               <l>Thus (travelling) a toyling trade I drive,</l>
+               <l>By reaſon of mine age, neer ſeventy five:</l>
+               <l>It is my earthly portion and my lot,</l>
+               <l>(The Proverb ſays, <hi>Need makes the old wife trot.</hi>)</l>
+               <l>Seven times at ſea I ſerv'd <hi>Elizabeth,</hi>
+               </l>
+               <l>And 2. Kings forty five yeers, untill death</l>
+               <l>Of both my Royall Maſters quite bereft me,</l>
+               <l>That nothing now but age and want is left me.</l>
+               <l>This makes me travell, and my friends to trie,</l>
+               <l>Elſe I might (like my fellowes) ſterve and die.</l>
+               <l>Had the laſt State, had conſciences ſo tender</l>
+               <l>To think on Oxford ſiedge, with that ſurrender,</l>
+               <l>Had they kept Articles and Covenants,</l>
+               <l>In ſome ſort, then they had releev'd our wants.</l>
+               <l>But they were in the land of Promiſe borne,</l>
+               <l>Perform'd, and paid us nothing, but their ſcorn.</l>
+               <l>
+                  <hi>Camelion</hi> like we had <hi>Ayre, Words,</hi> and <hi>Wind,</hi>
+               </l>
+               <l>With theſe three empty diſhes oft we din'd.</l>
+               <l>And with light Suppers, and ſuch breaking Faſt,</l>
+               <l>With meagre Famine, many breath'd their laſt.</l>
+               <l>we nere bare arms, but houſhold ſervants menial</l>
+               <l>We waited, if 'twere ſin, it was but veniall.</l>
+               <l>Theſe thirteen yeers no wages I could get,</l>
+               <l>Which makes me thus to try my friends &amp; wit.</l>
+               <l>Unto the Kings Revenews great Committee</l>
+               <l>We oft Petitiond, and implor'd their pitty;</l>
+               <pb n="11" facs="tcp:169947:6"/>
+               <l>And firſt and laſt, we gave Petitions plenty,</l>
+               <l>I'm ſure, in number, neer two hundred twenty.</l>
+               <l>Two thouſand Books &amp; Bils then printed were,</l>
+               <l>Wherein our woes and wants wee did declare:</l>
+               <l>Lord <hi>Fairfax</hi> was himſelfe Lord Generall then,</l>
+               <l>He pitied us (poor miſerable men;)</l>
+               <l>And he in perſon, more then one time went</l>
+               <l>And told our griefes unto the Parliament.</l>
+               <l>Beſides, for us, to them he Letters wrot,</l>
+               <l>For all which, only, promiſes we got.</l>
+               <l>I will not curſe thoſe men, but this I ſay,</l>
+               <l>If need and want afflict them, I doe pray</l>
+               <l>They may be comforted, and fed, and clad</l>
+               <l>With promiſes, as we from them have had.</l>
+            </lg>
+            <lg>
+               <l>TH' yeer ſixteen hundred fifty, with 3. added,</l>
+               <l>Old <hi>Tib</hi> my Mare, and I, a journy gadded:</l>
+               <l>I <hi>London</hi> left, the 9. day I remember</l>
+               <l>Of Auguſt, neer 3. weeks before September.</l>
+               <l>In 4. houres riding Poſt I got to <hi>Croydon,</hi>
+               </l>
+               <l>And ſo hath many a man, and many a boy done.</l>
+               <l>There was the George a horſeback day &amp; night,</l>
+               <l>And there I, from my mares back did alight.</l>
+               <l>At Water there wine was, but that's a Riddle,</l>
+               <l>At <hi>Croydon,</hi> you may know both ends &amp; middle.</l>
+               <l>To <hi>Micham,</hi> from my way full 3. miles wide,</l>
+               <l>A Gentleman, I thank him, was my guide.</l>
+               <pb n="12" facs="tcp:169947:7"/>
+               <l>Holland my ſheets, and <hi>Holland</hi> was mine Hoſt,</l>
+               <l>My entertainment good for little coſt,</l>
+               <l>Auguſt the tenth, my bonny Beaſt and I,</l>
+               <l>From Surrey traveld to South Saxony,</l>
+               <l>Now called Suſſex, where at <hi>Bellinſhurſt</hi>
+               </l>
+               <l>Six dayes I felt no hunger, cold, or thirſt.</l>
+               <l>There at a ſign, and no ſign but a Frame,</l>
+               <l>Twas the Kings arms, but ſhatering ſhot &amp; flame</l>
+               <l>Did beat them down, as uſeles, of ſmall ſtead,</l>
+               <l>For armes are of no uſe without a Head.</l>
+               <l>Mine Hoſt was mighty good, and great withall,</l>
+               <l>And, amongſt Hoſts, may be a Generall.</l>
+               <l>Hee's friendly, curteous, although big and burly,</l>
+               <l>A right good fellow, no way proud or ſurly.</l>
+               <l>Six nights at <hi>Bellinſhurſt</hi> I freely ſtayd,</l>
+               <l>And all the charge of mare and man was payd</l>
+               <l>By a Gentleman, to name whom Ile refrain,</l>
+               <l>Whoſe love, my thankfull mind ſhall ſtil retain.</l>
+               <l>Thus in one week I rode Poſt 30. mile,</l>
+               <l>And neither man or mare tyr'd all that while.</l>
+               <l>A Reverend Preacher preach'd on Sunday twice</l>
+               <l>Directing ſouls to th' Heavenly Paradice.</l>
+               <l>And if we could but do as he did ſay,</l>
+               <l>His Doctrine told us all the ready way.</l>
+               <l>Thus <hi>Billinſhurſt</hi> thy bounty I extoll,</l>
+               <l>Thou feaſtedſt me in body and in ſoule.</l>
+               <l>There was rare Muſick, ſweet and gentile <hi>Ayres,</hi>
+               </l>
+               <l>For undeſerved favours, <hi>I am theirs.</hi>
+               </l>
+               <pb n="13" facs="tcp:169947:7"/>
+               <l>My love to Mr. <hi>Fiſt,</hi> and to mine Hoſt,</l>
+               <l>But love and thanks <hi>T. H.</hi> deſerveth moſt.</l>
+               <l>From <hi>Billinſhurſt,</hi> Auguſt the ſixteenth day,</l>
+               <l>I took my leave, before I took my way.</l>
+               <l>The way indifferent good, the welk in ſmiles,</l>
+               <l>I rode to <hi>Petworth,</hi> 7. good Suſſex miles.</l>
+               <l>To ſet forth <hi>Petworth,</hi> its worth more worth is,</l>
+               <l>Then I am worth, or worthy; but know this,</l>
+               <l>
+                  <hi>Northumberland</hi> the Noble, there doth dwell,</l>
+               <l>Whoſe good houſekeeping, few Lords parallell.</l>
+               <l>There Honourable bounty is expreſt,</l>
+               <l>With daily charity to th' poor diſtreſt.</l>
+               <l>I ſpeak not this for any thing I got</l>
+               <l>Of that great Lord, I felt or ſaw him not:</l>
+               <l>For had I ſeen him, my beliefe is ſuch,</l>
+               <l>I ſhould have felt and found his bounties tutch:</l>
+               <l>But I, for my part, never was ſo rude</l>
+               <l>To flatter, fawn, or baſely to intrude,</l>
+               <l>Yet I declare him liberall, Honourable,</l>
+               <l>And there I din'd well, at his Stewards Table.</l>
+               <l>Thanks Mr. <hi>Williams</hi> there, the Cook exact</l>
+               <l>By his good friendſhip there, I nothing lackd.</l>
+               <l>Thanks to my Hoſteſſe kind, good Mrs. <hi>Martin,</hi>
+               </l>
+               <l>who welcom'd me with good whit wine a quart in.</l>
+               <l>And laſt of all, but not of all the leaſt,</l>
+               <l>I was kind Mr. <hi>Barnards</hi> coſtly Gueſt:</l>
+               <l>To me he ſhew'd his bounty from the Mint,</l>
+               <l>For which I give him heer my thanks in Print.</l>
+               <pb n="14" facs="tcp:169947:8"/>
+               <l>He payd the chinque, and freely gave me drink,</l>
+               <l>And I returne my gratitude with Inke.</l>
+               <l>
+                  <hi>Auguſt</hi> the 18. twelve long miles to <hi>Stenning</hi>
+               </l>
+               <l>I rode, and nothing ſaw there worth the kenning,</l>
+               <l>But that mine Hoſt there was a joviall Wight,</l>
+               <l>My Hoſteſs fat and fair; a goodly ſight:</l>
+               <l>The ſigne the Chequer, eighteen pence to pay;</l>
+               <l>My Mare eat mortal meat, good Oats and Hay.</l>
+               <l>Twelve miles from <hi>Stenning</hi> I jogd on to <hi>Lewes,</hi>
+               </l>
+               <l>And there I found no Beggars, Scolds, or Shrews;</l>
+               <l>
+                  <hi>Lewes</hi> hath no Bayliff, Mayor, or Magiſtrate,</l>
+               <l>For every one there lives in quiet ſtate:</l>
+               <l>They quarrell not for wagging of a ſtraw,</l>
+               <l>For each man is unto himſelfe a Law;</l>
+               <l>They need no bridle (like the Horſe or Mule)</l>
+               <l>Where every one himſelfe can wiſely rule.</l>
+               <l>At the terreſtriall Star (a gliſtring Signe)</l>
+               <l>I lodg'd, and found good Diet, and good Wine;</l>
+               <l>Mine Hoſt and Hoſteſs courteous, free, and kind,</l>
+               <l>And there I ſip'd and ſup'd, but ſeldom din'd:</l>
+               <l>
+                  <hi>Lewes</hi> is an ancient Town, as may be ſeen</l>
+               <l>In <hi>Cambden,</hi> page three hundred and thirteen:</l>
+               <l>Twelve men they chuſe, the moſt ſubſtantialleſt,</l>
+               <l>Moſt rich and wiſe, to govern all the reſt;</l>
+               <l>And out of that diſcreet and honeſt dozen,</l>
+               <l>Two (as it were) high Conſtables are choſen:</l>
+               <l>Theſe have no pow'r themſelvs to hang or draw,</l>
+               <l>Or on offendors to inflict the Law;</l>
+               <pb n="15" facs="tcp:169947:8"/>
+               <l>But to a Juſtice of the Peace, or <hi>Coram</hi>
+               </l>
+               <l>They bring the parties, &amp; their cauſe before am.</l>
+               <l>From Friday unto Friday I did ſtay,</l>
+               <l>But in the mean time I did take my way</l>
+               <l>Five miles to <hi>Torring</hi> where my old friend there,</l>
+               <l>The Parſon welcom'd me with Country cheer;</l>
+               <l>His name is <hi>John,</hi> or honeſt Maſter <hi>Rice,</hi>
+               </l>
+               <l>Six meals he meated me, and lodgd me thrice.</l>
+               <l>He Preachd on Sunday, <hi>Auguſts</hi> twenty one,</l>
+               <l>Two Sermons, tending to ſalvation:</l>
+               <l>His Doctrine's good, &amp; he himſelfe doth frame</l>
+               <l>To live in converſation like the ſame.</l>
+               <l>I thank him, and his Wife and Family,</l>
+               <l>For making of ſo much (too much) of me:</l>
+               <l>Thus when he could no longer me retaine,</l>
+               <l>With love and thanks, I rode to <hi>Lewes</hi> againe.</l>
+               <l>This Town contains ſix Churches, and at leaſt</l>
+               <l>It is a mile in length from Weſt to Eaſt:</l>
+               <l>A ſtrong and ſpacious Caſtle there hath been,</l>
+               <l>As by its moldred ruines may be ſee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</l>
+               <l>Thence 12 miles I was on my female beaſt born,</l>
+               <l>T'an unknown feaſt born, at a Towne cal'd Eaſt <hi>Bourne;</hi>
+               </l>
+               <l>I at an Inne alighted, and found there</l>
+               <l>Unlook'd for welcome, and good <hi>Suſſex</hi> cheer:</l>
+               <l>Sir <hi>Thomas Dike,</hi> Sir <hi>Thomas Parker,</hi> Knights,</l>
+               <l>With kinde Eſquires, whoſe names &amp; Epithites</l>
+               <l>I mention not, becauſe I know them not;</l>
+               <l>But to them all my thanks is unforgot,</l>
+               <pb n="16" facs="tcp:169947:9"/>
+               <l>For undeſerv'd, unlook'd for, and unthought,</l>
+               <l>From the<g ref="char:cmbAbbrStroke">̄</g> my purſe &amp; perſon both were fraught;</l>
+               <l>This was on <hi>Auguſts</hi> twenty ſixt, a Friday,</l>
+               <l>Near <hi>Dog dayes end,</hi> a very fair and drie day.</l>
+               <l>The next day, and the next I felt the bounty</l>
+               <l>Of the high Sheriff of <hi>Suſſex</hi> famous County;</l>
+               <l>He entertain'd me Saturday and Sunday,</l>
+               <l>And would have kept me 20 dayes paſt Monday.</l>
+               <l>There was a high and mighty drink call'd <hi>Rug,</hi>
+               </l>
+               <l>Sure ſince the Reigne of great King <hi>Gorbodug</hi>
+               </l>
+               <l>Was never ſuch a rare infus'd confection,</l>
+               <l>Injection, operation, and ejection,</l>
+               <l>Are <hi>Hogen Mogen Rugs,</hi> great influences</l>
+               <l>To provoke ſleep, and ſtupifie the ſences.</l>
+               <l>No cold can ever pierce his fleſh or skin</l>
+               <l>Of him who is well lin'd with <hi>Rug</hi> within:</l>
+               <l>
+                  <hi>Rug</hi> is a Lord beyond the Rules of Law;</l>
+               <l>It conquers hunger in the greedy maw:</l>
+               <l>And (in a word) of all the drinks potable,</l>
+               <l>
+                  <hi>Rug</hi> is moſt puiſant, potent, notable.</l>
+               <l>
+                  <hi>Rug</hi> was the Capitall Commander there,</l>
+               <l>And his Lievtenant Generall was ſtrong Beere.</l>
+               <l>Wine plenteous both in Bottles and in flaggons.</l>
+               <l>whoſe ſtre<g ref="char:cmbAbbrStroke">̄</g>gth would quel S. <hi>George</hi> &amp; 20 draggo<g ref="char:cmbAbbrStroke">̄</g>s</l>
+               <l>But <hi>Aſshuerus</hi> Laws were there inrol'd,</l>
+               <l>No man was forc'd to drink more then he would.</l>
+               <l>There was good <hi>Will,</hi> good <hi>Wills ſon,</hi> &amp; good <hi>Willia<g ref="char:cmbAbbrStroke">̄</g>
+                  </hi>
+               </l>
+               <l>As free as was the Emp'rour <hi>Maximilian:</hi>
+               </l>
+               <pb n="17" facs="tcp:169947:9"/>
+               <l>Beaſts, fowls and fiſh, from earth, &amp; ſea &amp; ayre</l>
+               <l>Unto the Table, well Cook'd, did repair,</l>
+               <l>There were rare Birds I never ſaw before</l>
+               <l>The like of them, I think to ſee no more:</l>
+               <l>Th'are called <hi>Wheat ears,</hi> leſs then Lark or Spar<g ref="char:EOLhyphen"/>row,</l>
+               <l>Wel roaſted, in the mouth they taſt like marow.</l>
+               <l>When once tis in the teeth it is involv'd,</l>
+               <l>Bones, fleſh, and all, is luſhiouſly diſſolv'd.</l>
+               <l>The name of <hi>Wheat ears,</hi> on them is ycleap'd,</l>
+               <l>Becauſe they come when wheat is yeerly reap'd.</l>
+               <l>Six weeks, or therabouts, they are catch'd there,</l>
+               <l>And are welnigh 11. months, God knows where.</l>
+               <l>My humble gratitude is heer expreſt</l>
+               <l>To Mr. Sheriffe, and his beloved beſt;</l>
+               <l>His kindnes joind with hers, and hers with his,</l>
+               <l>Doth merit my unfaigned thankfulnes.</l>
+               <l>Unto my Cozen <hi>Thomas Taylor</hi> there</l>
+               <l>My love remembred, and for my Samphiere</l>
+               <l>He promis'd me, I thank't him thrice before,</l>
+               <l>And when I have it, I will thank him more.</l>
+               <l>Twelve miles on Auguſts 9. and 20. day,</l>
+               <l>From <hi>Bourne</hi> to <hi>Battell,</hi> 4. miles on my way</l>
+               <l>At <hi>Pemſey</hi> doth a ruin'd Caſtle ſtand,</l>
+               <l>And there the Norman Conqueror did land.</l>
+               <l>Since his invading power arived there,</l>
+               <l>'Tis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow 500, 60, and 6. yeere.</l>
+               <l>Eight miles from thence, the Battel fierce was ſtrook</l>
+               <l>Where bloud of 70000, like a Brook,</l>
+               <pb n="18" facs="tcp:169947:10"/>
+               <l>Or rather I may ſay like <hi>Sanguin</hi> Rivers</l>
+               <l>Which down hills, it impetuouſly delivers</l>
+               <l>Into the Vales: and where that bloud was ſpilt</l>
+               <l>The Conqueror caus'd an Abbey to be built</l>
+               <l>Of ſtately ſtructure, and what it hath been,</l>
+               <l>By great extended ruines may be ſeen.</l>
+               <l>VVhen Norman forces <hi>England</hi> overcame,</l>
+               <l>From bloudy Battell, <hi>Battell</hi> had its name.</l>
+               <l>This Abbey now is kept, by right and due,</l>
+               <l>By the Honourable Viſcount <hi>Montague.</hi>
+               </l>
+               <l>That Lord repair'd ſome part magnificent,</l>
+               <l>And ther's good houſe kept, when hees reſident.</l>
+               <l>That noble Lord is, in account moſt famous,</l>
+               <l>Though many miſerable Lords doe ſhame us.</l>
+               <l>At th' Empereall creſt, or Eagle ſpred,</l>
+               <l>My ſelfe and mare, were ſtabled, lodg'd and fed.</l>
+               <l>About the reckoning I did not contend,</l>
+               <l>My friend <hi>T. H.</hi> paid all, and ther's an end.</l>
+               <l>Auguſt the thirtith, I rode on to <hi>Haſtings,</hi>
+               </l>
+               <l>Wher was relief for men of ſeverall taſtings,</l>
+               <l>Or ſundry pallats, put them altogether,</l>
+               <l>Or reliſht appetites, take all or neither.</l>
+               <l>At <hi>Haſtings</hi> I ſtaid not, but haſtily</l>
+               <l>I ambled 6. miles unto <hi>Winchelſey:</hi>
+               </l>
+               <l>Which hath been counted in the dayes of yore,</l>
+               <l>(Untill the ſeas contended with the ſhore)</l>
+               <l>A famous ſea Town, rich in merchandiſe,</l>
+               <l>But buried in the Ocean now it lies.</l>
+               <pb n="19" facs="tcp:169947:10"/>
+               <l>A Caſtle ſtands i'th ſands, enduring flawes,</l>
+               <l>Guſts, tempeſts, ſtorms, &amp; times devouring jaws:</l>
+               <l>In twice twelve hours, 'tis twice embraced round</l>
+               <l>In th' arms of <hi>Neptune,</hi> ſeeming to be drownd:</l>
+               <l>And when the flouds are eb'd into the main,</l>
+               <l>Three miles in ſands 'tis compaſt round again.</l>
+               <l>In <hi>Winchelſey</hi> that now is I could ken</l>
+               <l>Nothing worth obſervation of my pen.</l>
+               <l>Two miles from thence, upon a hill, ſtands <hi>Rye,</hi>
+               </l>
+               <l>And there I, at the Star, did lodge and lie:</l>
+               <l>More ods there is 'twixt ſinging ſongs and crying</l>
+               <l>Then was betwixt my lodging, and my lying.</l>
+               <l>I lodg'd by night, and I did lie by day,</l>
+               <l>And as upon a bed I muſing lay,</l>
+               <l>The chamber hang'd with painted cloth, I found</l>
+               <l>My ſelfe with ſentences beleaguerd round.</l>
+               <l>There was Philoſophy and Hiſtory,</l>
+               <l>Poetry Aenigmatick myſtery.</l>
+               <l>I know not what the Town in wealth may be,</l>
+               <l>But ſure, I on that chambers walls did ſee</l>
+               <l>More wit then al the town had, and more worth</l>
+               <l>Then my unlearned Muſe can well ſet forth.</l>
+               <l>I will not hold my Reader in dilemma,</l>
+               <l>Thus truly, lying, I tranſcribed them a.</l>
+            </lg>
+            <pb n="20" facs="tcp:169947:11"/>
+            <lg>
+               <l>
+                  <hi>NO flower ſo freſh, but froſt may it deface,</hi>
+               </l>
+               <l>
+                  <hi>None fits ſo faſt, but hee may loſe his place:</hi>
+               </l>
+               <l>
+                  <hi>Tis Concord keeps a Realme in Stable ſtay,</hi>
+               </l>
+               <l>
+                  <hi>But Diſcord brings all Kingdomes to decay.</hi>
+               </l>
+               <l>
+                  <hi>No Subject ought (for any kinde of Cauſe)</hi>
+               </l>
+               <l>
+                  <hi>Reſiſt his Prince, but yeeld him to the Lawes.</hi>
+               </l>
+               <l>
+                  <hi>Sure God is juſt, whoſe ſtroake, delayed long,</hi>
+               </l>
+               <l>
+                  <hi>Doth light at laſt, with paine more ſharp, and ſtrong</hi>
+               </l>
+               <l>
+                  <hi>Time never was, nor n'ere I thinke ſhall be,</hi>
+               </l>
+               <l>
+                  <hi>That Truth (unſhent) might ſpeake, in all things free.</hi>
+               </l>
+            </lg>
+            <pb n="21" facs="tcp:169947:11"/>
+            <lg>
+               <l>This is the Sum, the Marrow and the Pith</l>
+               <l>My lying Chamber was Adorned with:</l>
+               <l>And 'tis ſuppoſed, thoſe lines written there</l>
+               <l>Have in that Roome bin, more then 40 yeare.</l>
+               <l>Now, Reader take this notice more of <hi>Rye,</hi>
+               </l>
+               <l>'Tis worth Remembring, and I'le tell you why:</l>
+               <l>If to unloade your Bellies, Nature drive ye,</l>
+               <l>In all the Towne you'ſe ſcarcely finde a Privie.</l>
+               <l>For as our Sectaries, in Tubbs preach heere,</l>
+               <l>They make (Sir Reverence) Reverend Iakeſes there,</l>
+               <l>Of Pulpets of Prophanity, and theſe</l>
+               <l>When they are full, are empti'd in the Seas.</l>
+               <l>My fare was good at <hi>Rye,</hi> my Reck'ning ſmall,</l>
+               <l>I thanke my noble friend, that payd for all,</l>
+               <l>Neete unto <hi>Rye,</hi> 2 dirty Ferryes bee</l>
+               <l>So Muddy, that they mir'de my Mare and mee:</l>
+               <l>I paſt them, And on <hi>vltima Auguſti,</hi>
+               </l>
+               <l>well meated, Mounted, man and beaſt both luſty;</l>
+               <l>I croſſ'd or'e <hi>Gulford</hi> ferry, and I went</l>
+               <l>From <hi>Rye</hi> in <hi>Suſſex</hi> unto <hi>Hide</hi> in <hi>Kent;</hi>
+               </l>
+               <l>Septembers firſt day, <hi>Sol,</hi> with golden eye</l>
+               <l>Gilt <hi>Neptune</hi> with celeſtiall Alcaymie:</l>
+               <l>With ſovereign ſplendor, kiſſing medows green,</l>
+               <l>And mantled hills tops were coruſcant ſeen.</l>
+               <l>VVhen <hi>Phoebus</hi> mounted was in glorious pride,</l>
+               <l>I mounted too, and rode away from <hi>Hide.</hi>
+               </l>
+               <l>Still as I paſt through ſea Towns firſt and laſt,</l>
+               <l>I did enquire how buſineſſes had paſt.</l>
+               <pb n="22" facs="tcp:169947:12"/>
+               <l>The people ſaid that Guns did bounce &amp; thump,</l>
+               <l>Betwixt our <hi>Engliſh</hi> ſhips, and Dutch <hi>Van Trump.</hi>
+               </l>
+               <l>At <hi>Rumney,</hi> and at <hi>Hide,</hi> they were in ſight,</l>
+               <l>Folks heard the drums to beat, and ſaw the fight.</l>
+               <l>Thus, little was the newes from ſea or ſhore,</l>
+               <l>Our weekly News books will tel 3. times more.</l>
+               <l>From <hi>Hide</hi> to <hi>Dover,</hi> and to <hi>Canterbury</hi>
+               </l>
+               <l>Full 25. miles, dirty, wet and weary,</l>
+               <l>I took my lodging up, and down I lay</l>
+               <l>Till Friday came, Septembers ſecond day.</l>
+               <l>Then with the Lamb I aroſe, and with the Lark</l>
+               <l>I got to <hi>Graveſend</hi> when 'twas almoſt dark;</l>
+               <l>But I miſtake, from ſleep I rowz'd my head,</l>
+               <l>And roſe with th'Lark, but went with Lamb to bed.</l>
+               <l>On th' way I was not vext with Gates or Stiles,</l>
+               <l>But three and thirty dirty Kentiſh miles,</l>
+               <l>With waſhing daſhing ways, &amp; rain wel ſous'd,</l>
+               <l>It made my Mare and I glad to be hous'd:</l>
+               <l>The ſigne was <hi>Welſh</hi> his pie-bald engliſh <hi>Bull;</hi>
+               </l>
+               <l>I there was welcome empty, welcome full:</l>
+               <l>But at the high and mighty <hi>Graveſend Whale,</hi>
+               </l>
+               <l>I found moſt potent admirable Ale,</l>
+               <l>'Tis ſecond to no drink, but <hi>Eaſt-Bourne Rug,</hi>
+               </l>
+               <l>Put it in Pot or Flaggon, Can or Jug;</l>
+               <l>You'le finde it is the grand Ale, and you'l grant,</l>
+               <l>That 'tis Ale Parramount, Predominant:</l>
+               <l>'Twas given me by a Friend; but let him end</l>
+               <l>With hanging, that loves <hi>Ale</hi> more then his frie<g ref="char:cmbAbbrStroke">̄</g>d</l>
+               <pb n="23" facs="tcp:169947:12"/>
+               <l>From <hi>Graveſend</hi> (Satudray <hi>Septembers</hi> third)</l>
+               <l>I rode without ſputs, as I had been ſpurr'd:</l>
+               <l>I came to <hi>London</hi> when the Clock ſtruck one;</l>
+               <l>And ſo my Journey and my Booke is <hi>DONE.</hi>
+               </l>
+            </lg>
+            <lg rend="italic" type="envoy">
+               <l>Amongſt the Muſes where the number Nine is,</l>
+               <l>The learned Poets end their Works with <hi>Finis:</hi>
+               </l>
+               <l>But when unlearned I have Volumes pen'd,</l>
+               <l>
+                  <hi>Finis</hi> is Latine, Engliſh Done's an End.</l>
+            </lg>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:169947:13"/>
+            <pb n="25" facs="tcp:169947:13"/>
+            <head>
+               <hi>A POSTSCRIPT, Of ſome parts of</hi> SUSSEX <hi>and</hi> KENT <hi>that I Travelled, which I have borrowed out of Mr.</hi> SPEED.</head>
+            <div type="part">
+               <head>SUSSEX</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE North part of this Shire confronts upon Surrey, and Kent: the Weſt but<g ref="char:EOLhyphen"/>teth upon Hamſhire; and all the reſt of the County lieth ſtretched along the Britiſh ſea. The City of moſt account within this County is Chicheſter, a beautifull, and large Towne; yet for the ſtatelineſſe of buildings <hi>Lewes</hi> doth ſeeme to contend with it, where <hi>William de Warron</hi> built a ſtrong Caſtle, whereun<g ref="char:EOLhyphen"/>to the Barons, in time of thoſe civill brotles reſorted in warlike manner, and fought a great Battell againſt their Soveraigne and his ſonne, wherein the King,
+<pb n="26" facs="tcp:169947:14"/>
+                  <hi>Henry</hi> the third, had his horſe ſlaine under him; Rich<g ref="char:EOLhyphen"/>ard King of the <hi>Romans</hi> the Kings Brother was ſur<g ref="char:EOLhyphen"/>prized, and taken in a Wind-mill; and Prince Edward (who was after that King <hi>Edward</hi> the firſt, or Long<g ref="char:EOLhyphen"/>ſhankes) delivered vnto them upon unequall termes of peace.</p>
+               <p>Places of other note are theſe. Shore whence King <hi>Harold</hi> going upon the Sea for his pleaſure in a ſmall boate was driven upon the Coaſt of <hi>Normandy,</hi> where, by Duke <hi>William</hi> he was ſurprized, and re<g ref="char:EOLhyphen"/>tained, untill he ſwore to make him King after Ed<g ref="char:EOLhyphen"/>ward the Confeſſor his death. Weſt-Wittering where Ella the Saxon Landed when he came to conquer thoſe partes, and gave the name to the Shoare from Cimen his Sonne. Finally <hi>Gromebridge</hi> where <hi>Charles</hi> Duke of <hi>Orleance</hi> father to Lewis the twelfth King of <hi>Fraunce,</hi> was long detained, being taken Priſoner at Agincourt. Yet I have beene in the Caſtle of Star<g ref="char:EOLhyphen"/>borough where I was ſhewed the ſaid Dukes Chamber, in <hi>Kent</hi> or the edge of Surrey.</p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:169947:14"/>
+               <head>KENT.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">T</seg>His is the firſt Province that appeareth in the South of this Kingdome, and is bounded upon the North with the famous River</hi> Thamiſis: <hi>on the Eaſt with the</hi> German <hi>ſea, and Ocean: on the ſouth with</hi> Suſsex <hi>and the narrowe ſeas: and upon the Weſt with</hi> Suſsex <hi>and</hi> Surrey.</p>
+               <p>
+                  <hi>The cheifeſt City within this County is</hi> Canterbury <hi>which became famous, both for the converſion of the Saxons by St.</hi> Auguſtine, <hi>whereof eight of their Kings were there inter'd; as alſo was</hi> Thomas Becket <hi>Arch-Biſhop of</hi> Canterbury.</p>
+               <p>
+                  <hi>The invincible Caſtle of Dover is a place of the grea<g ref="char:EOLhyphen"/>teſt ſtrength not onely of this County, but of the whole Kingdome, being the Key of the Realme; and as</hi> Iohn Roſſe, <hi>and</hi> Lidgate <hi>affirme, was built by</hi> Julius Ceſar. <hi>The chiefeſt and onely thing of admiration in this ſhire is a hole at Mottingame eight yards about, and a line of fiftie ſadomes plummed into it, doth finde
+<pb n="28" facs="tcp:169947:15"/>no bottome, where ſuddenly the ground ſunke, and three greate Elmes therein growing, were ſwallowed vp into the earth. This ſhire claimeth the preeminence of Chriſ<g ref="char:EOLhyphen"/>tianity before all places of</hi> England: <hi>for</hi> Lucius <hi>the firſt</hi> Chriſtian Britiſh <hi>King in this Jland, built a Church within the Caſtle of Dover.</hi>
+               </p>
+               <p>
+                  <hi>There is no other memory or token of the great Bat<g ref="char:EOLhyphen"/>tell, which was fought at Ailesford, betweene</hi> Hengiſt <hi>the ambitious</hi> Saxon, <hi>and</hi> Vortimer <hi>the valiant</hi> Bri<g ref="char:EOLhyphen"/>taine, <hi>wherein</hi> Horſa, <hi>and</hi> Catigern, <hi>brethren to both Generalls were ſlaine, then a monument of</hi> Catigern, <hi>which is nothing elſe but foure ſtones pitched in the man<g ref="char:EOLhyphen"/>ner of the</hi> Stone henge, <hi>on Salsbury Plaine, and is vul<g ref="char:EOLhyphen"/>garly called</hi> Ciſcoatehouſe <hi>which is upon the plaine there.</hi>
+               </p>
+               <p>
+                  <hi>Englands Kings have had two ſeats in this County, wherein they were went to make ſome aboade, in the Summer time: the one for their Court which is</hi> Green<g ref="char:EOLhyphen"/>witch, <hi>the other for their pleaſure, which is Eltham, ve<g ref="char:EOLhyphen"/>ry convenient for paſtimes, and game for hunting.</hi>
+               </p>
+               <p>
+                  <hi>There is alſo a place in this Shire called</hi> Tunbridge <hi>whither there is great concourſe of infirms people, who finde preſent remedy for their maladies, by vertue of ſome</hi> Wells <hi>lately found out, which prove verie ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>raigne.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="verse_acknowledgment">
+            <pb n="29" facs="tcp:169947:15"/>
+            <head>To all my Friends that have ſubſcribed their Names and dwellings to my Bill.</head>
+            <lg>
+               <l>ACcording as you pay, or pay me not;</l>
+               <l>So is my lucky or unlucky Lot:</l>
+               <l>I have made uſe of many friends before</l>
+               <l>Age tels me now I ſhall do ſo no more.</l>
+               <l>Some friends I have, and ſome ſmall ſhare of wit,</l>
+               <l>And want hath forc'd me to vſe them, and it.</l>
+               <l>I, in my beſt of wiſhes will include</l>
+               <l>Their kindneſſe, and my humble gratitude.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
